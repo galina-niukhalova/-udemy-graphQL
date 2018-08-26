@@ -7,3 +7,7 @@
 
 
 ## Topics covered
+- Backend side: express, schema files (queries, mutation, types)
+- Frontend side: apollo, queries, mutations, refetch data, optimistic response
+- GraphiQL
+- Mongodb
