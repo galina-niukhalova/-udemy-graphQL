@@ -1,17 +1,8 @@
-.container {
-    margin: 0 auto;
-    max-width: 1200px;
+.collection-item {
+  display: flex;
+  justify-content: space-between;
 }
 
-.song-list {
-    width: 50%;
-    margin: 20px auto;
-    display: flex;
-    flex-direction: column;
-}
-
-.song {
-    border: 1px solid black;
-    padding: 10px 20px;
-    margin-bottom: 2px;
+.material-icons {
+  cursor: pointer;
 }
